@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Atsumeru ecosystem<br>🤝 I’m looking for help with Atsumeru server developing<br>🌱 I’m currently learning Java and JavaFX<br>⚡ Fun fact: Atsumeru is fastest self-hosted manga/comics server
+🔭 I’m currently working on some fun stuff<br>🌱 I’m currently learning Java and JavaFX<br>🤝 I’m looking for help with JavaFX learning<br>⚡ Fun fact: ...
 
 
 # 💻 Tech Stack:
